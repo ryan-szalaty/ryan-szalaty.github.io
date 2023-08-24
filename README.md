@@ -1,1 +1,0 @@
-# ryan-szalaty.github.io

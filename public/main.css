@@ -1,0 +1,70 @@
+body {
+    background-color: #F1D26C;
+    color: #2B1200;
+    margin: 5%;
+    font-size: 1.3rem;
+    line-height: 2;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+span {
+    font-weight: 600;
+}
+
+button {
+    background-color: #CF5C00;
+    color: #F1D26C;
+    border: none;
+    border-radius: 5%;
+    box-shadow: 2px 2px 5px #8D1E00;
+}
+
+#art-image-button {
+    margin-top: 5%;
+}
+
+#download-button {
+    cursor: pointer;
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: #ff7300;
+    color: #ffe58e;
+    transition: 0.2s;
+}
+
+section {
+    height: 100%;
+    width: 100%;
+}
+
+#art-showcase {
+    width: 90%;
+    height: 90vh;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+    border: solid 5px #2B1200;
+}
+
+button {
+    font-size: 1.2rem;
+}
+
+@media screen and (max-width:786px) {
+    section {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+}

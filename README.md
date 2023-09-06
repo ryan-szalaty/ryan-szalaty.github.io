@@ -1,7 +1,29 @@
-# ryan-szalaty.github.io
+# Ryan Szalaty
 
-# H1
-## H2
+## Career Summary  
+Utilizing multiple modern-day technologies to serve top-notch web applications, I have been building full-stack sites on my own for a few years. Languages include JavaScript, Python and PHP. Completely self-taught since the pandemic hit in 2020 and highly adaptable to different situations.  
+
+## Experience  
+Full-Stack Web Developer (2020 - Present)
+ * Designed a web-based point-and-click game called The Great RGB Game. Users must try to match a color to a given random RGB value.
+ * Utilize RESTful techniques when developing applications to ensure optimal performance and user security
+ * Completed several projects over the course of eight weeks as part of Harvard University's CS50 Introduction to Computer Science course
+
+English Instructor (2018 - Present)
+ * Creates original materials for classes in order to facilitate learning of new skills which schools can use
+ * Facilitates return of students who lived overseas with reintegration into Japanese society and educational norms
+ * Collaborates with partner instructors and managing staff to improve student academic and behavioral performance in class
+ * Communicates with parents about student performance and / or concerns
+<hr>
+**Achievements**
+ * Chosen to act as independent counselor for two clients from Louis Vuitton who needed to give a sales presentation to clients in English. Presentation was reported to be a success.
+ * Trained several incoming instructors in classroom management, pedagogy, and professionalism.
+
+## Education
+Harvard University: CS50 Introduction to Computer Science (2023)  
+Central Connecticut State University: M.S. TESOL (Teaching English to Speakers of Other Languages)
+
+
 ### H3
 #### H4
 ##### H5

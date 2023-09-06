@@ -14,8 +14,10 @@ English Instructor (2018 - Present)
  * Facilitates return of students who lived overseas with reintegration into Japanese society and educational norms
  * Collaborates with partner instructors and managing staff to improve student academic and behavioral performance in class
  * Communicates with parents about student performance and / or concerns
-<hr>
-**Achievements**
+
+<hr>  
+
+*Achievements*
  * Chosen to act as independent counselor for two clients from Louis Vuitton who needed to give a sales presentation to clients in English. Presentation was reported to be a success.
  * Trained several incoming instructors in classroom management, pedagogy, and professionalism.
 
